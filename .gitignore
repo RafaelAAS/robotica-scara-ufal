@@ -1,0 +1,20 @@
+# Configurações locais de IDE
+.vscode/
+.idea/
+
+# Lixo temporário do compilador Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Ambientes virtuais (Caso você use ou venha a criar no futuro)
+venv/
+.venv/
+env/
+
+# Arquivos ocultos do sistema operacional
+.DS_Store
+Thumbs.db
+
